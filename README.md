@@ -39,6 +39,8 @@ requirements, and current-mirror ratios.
 
 ## Simulation Results
 <img width="699" height="390" alt="image" src="https://github.com/user-attachments/assets/aa0b3c59-4cbc-45e8-b753-72ba37936339" />
+<img width="1388" height="714" alt="image" src="https://github.com/user-attachments/assets/b199f38a-951c-4b40-88fe-c6ce45f62e69" />
+
 The simulated circuit achieved the following measured results:
 
 
