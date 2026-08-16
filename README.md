@@ -44,6 +44,8 @@ stage, active load/current mirror, second gain stage, and compensation capacitor
 -   Noise analysis
 
 ## Simulation Results
+<img width="991" height="660" alt="image" src="https://github.com/user-attachments/assets/aa8bd75f-ce12-4933-b0d9-73edc852dc99" />
+
 <img width="1401" height="706" alt="image" src="https://github.com/user-attachments/assets/7a39710f-4e4a-471d-aa21-bb6b584305e7" />
 
 <img width="1375" height="638" alt="image" src="https://github.com/user-attachments/assets/572960c7-f6d6-4fef-8313-33c39ce9ed13" />
