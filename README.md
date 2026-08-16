@@ -53,8 +53,7 @@ transient analysis verifies the time-domain response of the amplifier.
 ## Circuit
 
 The two-stage operational amplifier consists of a differential input
-stage, active load/current mirror, second gain stage, and compensation
-capacitor.
+stage, active load/current mirror, second gain stage, and compensation capacitor.
 <img width="622" height="429" alt="image" src="https://github.com/user-attachments/assets/98d726aa-b3b2-4ce0-99f0-70eb54459aa5" />
 
 
