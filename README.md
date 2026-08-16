@@ -49,10 +49,10 @@ stage, active load/current mirror, second gain stage, and compensation capacitor
 <h3>DC Operating Point</h3>
 <img width="1401" height="706" alt="image" src="https://github.com/user-attachments/assets/7a39710f-4e4a-471d-aa21-bb6b584305e7" />
 <br><br>
-### Phase and Magnitude Plot
+<h3>Phase and Magnitude Plot</h3>
 <img width="1375" height="638" alt="image" src="https://github.com/user-attachments/assets/572960c7-f6d6-4fef-8313-33c39ce9ed13" />
 <br><br>
-### Transient Response analysis
+<h3>Transient Response analysis</h3>
 <img width="1388" height="714" alt="image" src="https://github.com/user-attachments/assets/b199f38a-951c-4b40-88fe-c6ce45f62e69" />
 <br><br>
 The simulated circuit achieved the following measured results:
