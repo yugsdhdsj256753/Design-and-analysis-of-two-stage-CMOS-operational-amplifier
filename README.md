@@ -45,7 +45,7 @@ stage, active load/current mirror, second gain stage, and compensation capacitor
 ## Simulation Results
 ### Pole Zero Analysis
 <img width="991" height="660" alt="image" src="https://github.com/user-attachments/assets/aa8bd75f-ce12-4933-b0d9-73edc852dc99" />
-<br><br>
+<br><br><br>
 ### DC Operating point
 <img width="1401" height="706" alt="image" src="https://github.com/user-attachments/assets/7a39710f-4e4a-471d-aa21-bb6b584305e7" />
 <br><br>
