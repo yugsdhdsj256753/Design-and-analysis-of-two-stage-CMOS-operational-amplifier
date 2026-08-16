@@ -38,7 +38,10 @@ requirements, and current-mirror ratios.
 -   Noise analysis
 
 ## Simulation Results
-<img width="699" height="390" alt="image" src="https://github.com/user-attachments/assets/aa0b3c59-4cbc-45e8-b753-72ba37936339" />
+<img width="1401" height="706" alt="image" src="https://github.com/user-attachments/assets/7a39710f-4e4a-471d-aa21-bb6b584305e7" />
+
+<img width="1375" height="638" alt="image" src="https://github.com/user-attachments/assets/572960c7-f6d6-4fef-8313-33c39ce9ed13" />
+
 <img width="1388" height="714" alt="image" src="https://github.com/user-attachments/assets/b199f38a-951c-4b40-88fe-c6ce45f62e69" />
 
 The simulated circuit achieved the following measured results:
