@@ -83,4 +83,4 @@ Analysis \| Stability Analysis \| Cadence Virtuoso**
 
 ## Contributors
 
-- **Yuvaraj Dhayal D** |**MTech VLSI Design at VIT Vellore** 
+- **Yuvaraj Dhayal D** | **MTech VLSI Design at VIT Vellore** 
