@@ -29,7 +29,7 @@ analyses in Cadence Virtuoso. The final transistor dimensions were
 selected based on the calculated bias currents, transconductance
 requirements, and current-mirror ratios.
 
-## Circuit
+## Circuit Diagram
 
 The two-stage operational amplifier consists of a differential input
 stage, active load/current mirror, second gain stage, and compensation capacitor.
