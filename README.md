@@ -41,7 +41,6 @@ stage, active load/current mirror, second gain stage, and compensation capacitor
 -   AC gain and phase analysis
 -   Transient analysis
 -   Pole-zero analysis
--   Noise analysis
 
 ## Simulation Results
 <img width="991" height="660" alt="image" src="https://github.com/user-attachments/assets/aa8bd75f-ce12-4933-b0d9-73edc852dc99" />
