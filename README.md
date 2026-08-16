@@ -38,8 +38,10 @@ requirements, and current-mirror ratios.
 -   Noise analysis
 
 ## Simulation Results
-
+<img width="699" height="390" alt="image" src="https://github.com/user-attachments/assets/aa0b3c59-4cbc-45e8-b753-72ba37936339" />
 The simulated circuit achieved the following measured results:
+
+
 
 -   **Maximum Gain:** approximately 68 dB
 -   **0-dB Gain Crossover Frequency:** 16.20 MHz
