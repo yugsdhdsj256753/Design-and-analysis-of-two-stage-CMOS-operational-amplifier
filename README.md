@@ -54,7 +54,8 @@ stage, active load/current mirror, second gain stage, and compensation capacitor
 <img width="1605" height="747" alt="dc op" src="https://github.com/user-attachments/assets/bcc6059a-7705-4932-aa7d-27e4cb66f644" />
 <br><br>
 <h3>Phase and Magnitude Plot</h3>
-<img width="1375" height="638" alt="image" src="https://github.com/user-attachments/assets/572960c7-f6d6-4fef-8313-33c39ce9ed13" />
+<img width="1919" height="846" alt="db" src="https://github.com/user-attachments/assets/71eadbb0-c9b1-43c4-b3fe-8e2ce7a5be5b" />
+
 <br><br>
 <h3>Transient Response analysis</h3>
 <img width="1388" height="714" alt="image" src="https://github.com/user-attachments/assets/b199f38a-951c-4b40-88fe-c6ce45f62e69" />
