@@ -44,6 +44,9 @@ stage, active load/current mirror, second gain stage, and compensation capacitor
 -   Pole-zero analysis
 
 ## Simulation Results
+<h3>Schematic for Two stage Opamp</h3>
+<img width="1629" height="762" alt="white sc" src="https://github.com/user-attachments/assets/c6a18b48-e556-4a6d-baa6-57adb6c8872f" />
+
 ### Pole Zero Analysis
 <img width="1131" height="789" alt="pz" src="https://github.com/user-attachments/assets/ccf04acf-2c9d-4aa3-9d38-72e9ee964354" />
 <br><br><br>
