@@ -23,6 +23,11 @@ The operational amplifier was designed at the transistor level using
 NMOS and PMOS devices. The design involved transistor sizing,
 bias-current calculation, compensation capacitor selection, and analysis
 of the input common-mode range and phase-margin requirements.
+<h3>From the UMC 180nm spice parameters</h3>
+<img width="769" height="456" alt="image" src="https://github.com/user-attachments/assets/ba6d0a67-7519-40f0-971b-b714bdce7791" />
+<h3>calculation for finding (w/L)1 ratio :</h3>
+<img width="820" height="758" alt="image" src="https://github.com/user-attachments/assets/c13dbe02-65b6-407c-8359-24d506333c72" />
+
 <img width="864" height="401" alt="image" src="https://github.com/user-attachments/assets/8a87d958-e2c6-43b6-a038-e145524a3f83" />
 
 The circuit was evaluated using DC, AC, transient, pole-zero, and noise
