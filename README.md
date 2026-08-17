@@ -23,9 +23,7 @@ The operational amplifier was designed at the transistor level using
 NMOS and PMOS devices. The design involved transistor sizing,
 bias-current calculation, compensation capacitor selection, and analysis
 of the input common-mode range and phase-margin requirements.
-
-
-<img width="864" height="401" alt="image" src="https://github.com/user-attachments/assets/8a87d958-e2c6-43b6-a038-e145524a3f83" />
+<img width="1591" height="989" alt="image" src="https://github.com/user-attachments/assets/24572004-d9ba-4e00-a4e1-eca81e3ece24" />
 
 The circuit was evaluated using DC, AC, transient, pole-zero, and noise
 analyses in Cadence Virtuoso. The final transistor dimensions were
