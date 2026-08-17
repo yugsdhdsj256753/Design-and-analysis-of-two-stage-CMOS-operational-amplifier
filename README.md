@@ -87,6 +87,10 @@ transient analysis verifies the time-domain response of the amplifier.
 Transistor Sizing \| Operational Amplifier Design \| Frequency Response
 Analysis \| Stability Analysis \| Cadence Virtuoso**
 
+## Future Work
+- Design and implement the analog layout of the proposed two-stage op-amp using Cadence Virtuoso.
+- Perform DRC and LVS verification to ensure layout correctness.
+- Extract parasitic components and perform post-layout simulation.
 ## Contributors
 
 - **Yuvaraj Dhayal D** | **MTech VLSI Design at VIT Vellore** 
