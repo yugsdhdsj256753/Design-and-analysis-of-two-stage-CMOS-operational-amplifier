@@ -23,7 +23,7 @@ The operational amplifier was designed at the transistor level using
 NMOS and PMOS devices. The design involved transistor sizing,
 bias-current calculation, compensation capacitor selection, and analysis
 of the input common-mode range and phase-margin requirements.
-<img width="1591" height="989" alt="image" src="https://github.com/user-attachments/assets/24572004-d9ba-4e00-a4e1-eca81e3ece24" />
+
 
 The circuit was evaluated using DC, AC, transient, pole-zero, and noise
 analyses in Cadence Virtuoso. The final transistor dimensions were
@@ -48,7 +48,7 @@ stage, active load/current mirror, second gain stage, and compensation capacitor
 <img width="991" height="660" alt="image" src="https://github.com/user-attachments/assets/aa8bd75f-ce12-4933-b0d9-73edc852dc99" />
 <br><br><br>
 <h3>DC Operating Point</h3>
-<img width="1401" height="706" alt="image" src="https://github.com/user-attachments/assets/7a39710f-4e4a-471d-aa21-bb6b584305e7" />
+<img width="1605" height="747" alt="dc op" src="https://github.com/user-attachments/assets/bcc6059a-7705-4932-aa7d-27e4cb66f644" />
 <br><br>
 <h3>Phase and Magnitude Plot</h3>
 <img width="1375" height="638" alt="image" src="https://github.com/user-attachments/assets/572960c7-f6d6-4fef-8313-33c39ce9ed13" />
