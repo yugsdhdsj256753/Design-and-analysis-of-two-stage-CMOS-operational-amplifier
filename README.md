@@ -58,7 +58,8 @@ stage, active load/current mirror, second gain stage, and compensation capacitor
 
 <br><br>
 <h3>Transient Response analysis</h3>
-<img width="1388" height="714" alt="image" src="https://github.com/user-attachments/assets/b199f38a-951c-4b40-88fe-c6ce45f62e69" />
+<img width="1919" height="837" alt="tran" src="https://github.com/user-attachments/assets/cf665895-88fc-4e44-b111-a2581be7994c" />
+
 <br><br>
 The simulated circuit achieved the following measured results:
 
@@ -67,8 +68,8 @@ The simulated circuit achieved the following measured results:
 -   **Maximum Gain:** approximately 74 dB
 -   **0-dB Gain Crossover Frequency:** 7.5 MHz
 -   **3-dB Frequency:** 1.5 kHz
--   **Transient Output:** approximately 41.7 mV peak-to-peak
--   **Transient Input:** approximately 21 µV peak-to-peak
+-   **Transient Output:** approximately 33 µV peak-to-peak
+-   **Transient Input:** approximately 10 µV peak-to-peak
 
 The AC analysis plot shows the gain and phase response, while the
 transient analysis verifies the time-domain response of the amplifier.
