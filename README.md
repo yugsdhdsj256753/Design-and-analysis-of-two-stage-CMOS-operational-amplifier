@@ -74,11 +74,11 @@ transient analysis verifies the time-domain response of the amplifier.
 
 ## Tools
 
-**Cadence Virtuoso \| Cadence Spectre \| UMC 180 nm PDK**
+- **Cadence Virtuoso \| Cadence Spectre \| UMC 180 nm PDK**
 
 ## Key Skills Demonstrated
 
-**Analog IC Design \| CMOS Circuit Design \| MOSFET Biasing \|
+- **Analog IC Design \| CMOS Circuit Design \| MOSFET Biasing \|
 Transistor Sizing \| Operational Amplifier Design \| Frequency Response
 Analysis \| Stability Analysis \| Cadence Virtuoso**
 
