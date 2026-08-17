@@ -66,7 +66,7 @@ The simulated circuit achieved the following measured results:
 
 -   **Maximum Gain:** approximately 74 dB
 -   **0-dB Gain Crossover Frequency:** 7.5 MHz
--   **3-dB Frequency:** 9.38 kHz
+-   **3-dB Frequency:** 1.5 kHz
 -   **Transient Output:** approximately 41.7 mV peak-to-peak
 -   **Transient Input:** approximately 21 µV peak-to-peak
 
