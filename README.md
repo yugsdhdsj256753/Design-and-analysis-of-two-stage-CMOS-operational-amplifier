@@ -6,16 +6,18 @@ operational amplifier** using **UMC 180 nm CMOS technology** in
 
 ## Project Specifications
 
--   **Technology:** UMC 180 nm CMOS
--   **EDA Tool:** Cadence Virtuoso
--   **Supply Voltage:** 1.8 V
--   **Gain:** 1000 V/V (60 dB) target
--   **Gain Bandwidth Product:** 30 MHz
--   **Slew Rate:** 20 V/µs
--   **Input Common-Mode Range:** 0.8 V to 1.6 V
--   **Power Consumption:** \< 0.3 mW
--   **Load Capacitance:** 2 pF
--   **Phase Margin:** ≥ 60°
+| Parameter | Specification |
+|---|---:|
+| **Technology** | UMC 180 nm CMOS |
+| **EDA Tool** | Cadence Virtuoso |
+| **Supply Voltage** | 1.8 V |
+| **Gain** | 1000 V/V (60 dB) target |
+| **Gain Bandwidth Product (GBW)** | 30 MHz |
+| **Slew Rate** | 20 V/µs |
+| **Input Common-Mode Range (ICMR)** | 0.8 V – 1.6 V |
+| **Power Consumption** | < 0.3 mW |
+| **Load Capacitance** | 2 pF |
+| **Phase Margin** | ≥ 60° |
 
 ## Design Approach
 
