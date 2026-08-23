@@ -47,20 +47,24 @@ stage, active load/current mirror, second gain stage, and compensation capacitor
 
 ## Simulation Results
 <h3>Schematic for Two stage Opamp</h3>
-<img width="1629" height="762" alt="white sc" src="https://github.com/user-attachments/assets/c6a18b48-e556-4a6d-baa6-57adb6c8872f" />
+<img width="1619" height="766" alt="twostageopamp schematic" src="https://github.com/user-attachments/assets/24ffbddc-2997-442c-a1b5-6f905993eedd" />
+
 
 ### Pole Zero Analysis
-<img width="1131" height="789" alt="pz" src="https://github.com/user-attachments/assets/ccf04acf-2c9d-4aa3-9d38-72e9ee964354" />
+<img width="1439" height="649" alt="twostageopamp polezero analysis" src="https://github.com/user-attachments/assets/33a18eda-2edc-47fd-8bdb-a3f5d46f03c5" />
+
 <br><br><br>
 <h3>DC Operating Point</h3>
 <img width="1605" height="747" alt="dc op" src="https://github.com/user-attachments/assets/bcc6059a-7705-4932-aa7d-27e4cb66f644" />
 <br><br>
 <h3>Phase and Magnitude Plot</h3>
-<img width="1919" height="846" alt="db" src="https://github.com/user-attachments/assets/71eadbb0-c9b1-43c4-b3fe-8e2ce7a5be5b" />
+<img width="1567" height="799" alt="twostageopamp gain and phase with compensation" src="https://github.com/user-attachments/assets/16ec138b-83e9-4912-904a-a2faea42a3b5" />
+
 
 <br><br>
 <h3>Transient Response analysis</h3>
-<img width="1919" height="837" alt="tran" src="https://github.com/user-attachments/assets/cf665895-88fc-4e44-b111-a2581be7994c" />
+<img width="1745" height="778" alt="twostageopamp transient analysis" src="https://github.com/user-attachments/assets/cf080b09-0cb0-4fa6-970e-4acfafffc3f8" />
+
 
 <br><br>
 The simulated circuit achieved the following measured results:
