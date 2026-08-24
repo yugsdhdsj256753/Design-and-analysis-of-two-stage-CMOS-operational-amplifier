@@ -77,10 +77,17 @@ The simulated circuit achieved the following measured results:
 -   **Transient Output:** approximately 8.7 mV peak-to-peak
 -   **Transient Input:** approximately 9.9 µV peak-to-peak
 
-The AC analysis plot shows the gain and phase response, while the
-transient analysis verifies the time-domain response of the amplifier.
-
-
+## Final Results
+| Parameter | Target | Achieved |
+|---|---:|---:|
+| **Supply Voltage** | 1.8 V | 1.8 V |
+| **Gain** | 1000 V/V (60 dB) | ~58 dB |
+| **Gain Bandwidth Product (GBW)** | 30 MHz | 27.13 MHz |
+| **Slew Rate** | 20 V/µs | Not reported |
+| **Input Common-Mode Range (ICMR)** | 0.8 V – 1.6 V | Not reported |
+| **Power Consumption** | < 0.3 mW | Not reported |
+| **Load Capacitance** | 2 pF | 2 pF |
+| **Phase Margin** | ≥ 60° | 70° |
 
 
 ## Tools
