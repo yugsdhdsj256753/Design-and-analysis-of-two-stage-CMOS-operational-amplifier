@@ -74,8 +74,8 @@ The simulated circuit achieved the following measured results:
 -   **Maximum Gain:** approximately 58 dB
 -   **Gain Bandwidth Product:** 7.5 MHz
 -   **3-dB Frequency:** 1.5 kHz
--   **Transient Output:** approximately 33 µV peak-to-peak
--   **Transient Input:** approximately 10 µV peak-to-peak
+-   **Transient Output:** approximately 8.7 mV peak-to-peak
+-   **Transient Input:** approximately 9.9 µV peak-to-peak
 
 The AC analysis plot shows the gain and phase response, while the
 transient analysis verifies the time-domain response of the amplifier.
