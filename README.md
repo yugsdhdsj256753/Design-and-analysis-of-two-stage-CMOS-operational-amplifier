@@ -57,9 +57,9 @@ stage, active load/current mirror, second gain stage, and compensation capacitor
 <h3>DC Operating Point</h3>
 <img width="1605" height="747" alt="dc op" src="https://github.com/user-attachments/assets/bcc6059a-7705-4932-aa7d-27e4cb66f644" />
 <br><br>
-<h3>Phase and Magnitude(with 400 fF) Plot</h3>
+<h3>Phase and Magnitude Plot (with 400 fF)</h3>
 <img width="1567" height="799" alt="twostageopamp gain and phase with compensation" src="https://github.com/user-attachments/assets/16ec138b-83e9-4912-904a-a2faea42a3b5" />
-<h3>Phase and Magnitude(with 600 fF) Plot</h3>
+<h3>Phase and Magnitude Plot (with 600 fF)</h3>
 <img width="1595" height="795" alt="Screenshot 2026-08-24 210826" src="https://github.com/user-attachments/assets/d21f2688-7c69-4993-abb2-bf2752a8f414" />
 
 <br><br>
