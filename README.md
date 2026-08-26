@@ -88,7 +88,7 @@ The simulated circuit achieved the following measured results:
 | **Input Common-Mode Range (ICMR)** | 0.8 V – 1.6 V | Not reported |
 | **Power Consumption** | < 0.3 mW | 0.307mW |
 | **Load Capacitance** | 2 pF | 2 pF |
-| **Phase Margin** | ≥ 60° | 70° |
+| **Phase Margin** | ≥ 60° | 64.64° |
 
 
 ## Tools
