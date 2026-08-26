@@ -86,7 +86,7 @@ The simulated circuit achieved the following measured results:
 | **Gain Bandwidth Product (GBW)** | 30 MHz | 27.13 MHz |
 | **Slew Rate** | 20 V/µs | Not reported |
 | **Input Common-Mode Range (ICMR)** | 0.8 V – 1.6 V | Not reported |
-| **Power Consumption** | < 0.3 mW | Not reported |
+| **Power Consumption** | < 0.3 mW | 0.307mW |
 | **Load Capacitance** | 2 pF | 2 pF |
 | **Phase Margin** | ≥ 60° | 70° |
 
