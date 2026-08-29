@@ -83,7 +83,7 @@ The simulated circuit achieved the following measured results:
 |---|---:|---:|
 | **Supply Voltage** | 1.8 V | 1.8 V |
 | **Gain** | 1000 V/V (60 dB) | ~58.6 dB |
-| **Gain Bandwidth Product (GBW)** | 30 MHz | 34 MHz |
+| **Gain Bandwidth Product (GBW)** | 30 MHz | 34.48 MHz |
 | **Slew Rate** | 20 V/µs | Not reported |
 | **Input Common-Mode Range (ICMR)** | 0.8 V – 1.6 V | Not reported |
 | **Power Consumption** | < 0.3 mW | 0.307mW |
