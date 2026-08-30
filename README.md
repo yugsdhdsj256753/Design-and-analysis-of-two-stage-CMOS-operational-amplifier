@@ -65,6 +65,9 @@ stage, active load/current mirror, second gain stage, and compensation capacitor
 <br><br>
 <h3>Transient Response analysis</h3>
 <img width="1745" height="778" alt="twostageopamp transient analysis" src="https://github.com/user-attachments/assets/cf080b09-0cb0-4fa6-970e-4acfafffc3f8" />
+<h3>Power Consumption</h3>
+<img width="927" height="788" alt="image" src="https://github.com/user-attachments/assets/92915cfb-72c6-4c68-9336-c51fe16324d1" />
+<img width="288" height="45" alt="image" src="https://github.com/user-attachments/assets/25187193-d23b-44ba-917d-5b172d914632" />
 
 
 <br><br>
