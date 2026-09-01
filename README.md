@@ -38,7 +38,9 @@ requirements, and current-mirror ratios.
 
 The two-stage operational amplifier consists of a differential input
 stage, active load/current mirror, second gain stage, and compensation capacitor.
-<img width="622" height="429" alt="image" src="https://github.com/user-attachments/assets/98d726aa-b3b2-4ce0-99f0-70eb54459aa5" />
+
+<img width="787" height="413" alt="twostageopamp" src="https://github.com/user-attachments/assets/bafd9899-ef0b-4a49-bab3-06ba6065cb9a" />
+
 
 ## Analyses Performed
 
