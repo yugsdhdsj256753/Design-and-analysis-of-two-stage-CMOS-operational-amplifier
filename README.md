@@ -32,7 +32,8 @@ analyses in Cadence Virtuoso. The final transistor dimensions were
 selected based on the calculated bias currents, transconductance
 requirements, and current-mirror ratios.
 ## Block Diagram
-<img width="870" height="418" alt="architecture" src="https://github.com/user-attachments/assets/e56d04f0-d1f9-4cb9-b222-1555754f640a" />
+<img width="1599" height="564" alt="image" src="https://github.com/user-attachments/assets/dae42cea-a071-490e-a3ab-7cc42f38f9ad" />
+
 
 ## Circuit Diagram
 
