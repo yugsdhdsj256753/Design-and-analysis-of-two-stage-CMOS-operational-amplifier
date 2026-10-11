@@ -73,7 +73,8 @@ stage, active load/current mirror, second gain stage, and compensation capacitor
 <h3>Power Consumption</h3>
 <img width="927" height="788" alt="image" src="https://github.com/user-attachments/assets/92915cfb-72c6-4c68-9336-c51fe16324d1" />
 <img width="288" height="45" alt="image" src="https://github.com/user-attachments/assets/25187193-d23b-44ba-917d-5b172d914632" />
-
+<h3>PSRR</h3>
+<img width="1451" height="677" alt="image" src="https://github.com/user-attachments/assets/e388f573-7882-46fc-9cf3-cec44ff404d0" />
 
 <br><br>
 The simulated circuit achieved the following measured results:
