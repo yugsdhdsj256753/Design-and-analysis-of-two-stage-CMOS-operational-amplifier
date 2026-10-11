@@ -85,7 +85,7 @@ The simulated circuit achieved the following measured results:
 
 
 -   **Maximum Gain:** approximately 58 dB
--   **Gain Bandwidth Product:** 27.13 MHz
+-   **Gain Bandwidth Product:** 34.48 MHz
 -   **3-dB Frequency:** 38.19 kHz
 -   **Transient Output:** approximately 8.7 mV peak-to-peak
 -   **Transient Input:** approximately 9.9 µV peak-to-peak
